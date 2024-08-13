@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.example.MobileApi_1&apos; to &apos;com.example.mobileApi_1&apos;&#x0D;&#x0A;- Original project: &apos;MobileApi_1&apos;&#x0D;&#x0A;- Original element: &apos;MobileApi_1/src/main/java/com.example.MobileApi_1&apos;&#x0D;&#x0A;- Renamed element: &apos;MobileApi_1/src/main/java/com.example.mobileApi_1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.example.MobileApi_1&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.MobileApi_1" name="com.example.mobileApi_1" qualified="false" references="true" stamp="1719987111230" textual="false" version="1.0"/>
+</session>

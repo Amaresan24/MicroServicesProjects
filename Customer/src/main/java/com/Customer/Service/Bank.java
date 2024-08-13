@@ -1,0 +1,42 @@
+package com.Customer.Service;
+
+public class Bank {
+
+	private int id;
+	private String bankname;
+	private String ifsc_code;
+	private String branch;
+
+	public int getId() {
+		return id;
+	}
+
+	public String getBankname() {
+		return bankname;
+	}
+
+	public String getIfsc_code() {
+		return ifsc_code;
+	}
+
+	public String getBranch() {
+		return branch;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public void setBankname(String bankname) {
+		this.bankname = bankname;
+	}
+
+	public void setIfsc_code(String ifsc_code) {
+		this.ifsc_code = ifsc_code;
+	}
+
+	public void setBranch(String branch) {
+		this.branch = branch;
+	}
+
+}
